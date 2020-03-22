@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584905762 source:c:\users\bars\hw_quarantine\task4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
